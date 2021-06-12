@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deivitbonach, electrical engineering student at University of Campinas in Brazil.
-- 🌱 I’m currently learning web development with python/Django and javascript.
+- 🌱 I’m currently learning web development with Python/Django and Javascript.
 
 </br>
 
