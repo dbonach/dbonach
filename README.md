@@ -17,7 +17,13 @@ The projects on top are more recent, as a result they could have a better qualit
 
   <tr>
     <td><a href="https://dbonach.github.io/cs50web-2018-project0/">Free Programming Resources WebPage</a></td>
-    <td>Simple webpage about free programming courses</td>
+    <td>Webpage about free programming courses</td>
+    <td>⭐</td>
+  </tr>
+    
+  <tr>
+    <td><a href="https://github.com/dbonach/cs50web-project-1-wiki">Wikipedia-like encyclopedia</a></td>
+    <td>Online encyclopedia where we can save, query and edit its pages</td>
     <td>⭐</td>
   </tr>
   
