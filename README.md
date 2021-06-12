@@ -40,4 +40,4 @@ The projects on top are more recent, as a result they could have a better qualit
   </tr>
 </table>
 
-<sub>* The stars represent how difficult each project was at the time.</sub>
+<sub>* The stars represent the complexity of each project.</sub>
