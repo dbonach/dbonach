@@ -17,21 +17,21 @@ The projects on top are more recent, as a result they could have a better qualit
 
   <tr>
     <td><a href="https://dbonach.github.io/cs50web-2018-project0/">Free Programming Resources WebPage</a></td>
-    <td>description</td>
+    <td>Simple webpage about free programming courses</td>
     <td>⭐</td>
   </tr>
   
   <tr>
     <td><a href="https://github.com/dbonach/cs50web-project-0-search">Google Home Page</a></td>
-    <td>description</td>
+    <td>Clone of google search page including speechrecognition</td>
     <td>⭐⭐</td>
   </tr>
 
   <tr>
     <td><a href="https://github.com/dbonach/microcontroller-robot-car">Robot car with microcontroller</a></td>
-    <td>description</td>
+    <td>Controlled robot car with distance sensor</td>
     <td>⭐⭐⭐⭐</td>
   </tr>
 </table>
 
-<sub>* The stars represents the complexity of each project.</sub>
+<sub>* The stars represent how difficult each project was at the time.</sub>
