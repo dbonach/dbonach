@@ -3,7 +3,7 @@
 
 </br>
 
-I have been developing a few projects from online courses and I’d like to share them to show what I have been learning and my capabilities as a future web developer.
+I have been developing a few projects from online courses and I’d like to share them to show what I have been learning and my capabilities as a future web developer. I have interest in front-end and back-end.
 
 The projects on top are more recent, as a result they could have a better quality in general.
 
@@ -22,7 +22,7 @@ The projects on top are more recent, as a result they could have a better qualit
   </tr>
     
   <tr>
-    <td><a href="https://github.com/dbonach/cs50web-project-1-wiki">Wikipedia-like encyclopedia</a></td>
+    <td><a href="https://github.com/dbonach/cs50web-project-1-wiki">Wikipedia-Like Encyclopedia</a></td>
     <td>Online encyclopedia where we can save, query and edit its pages</td>
     <td>⭐</td>
   </tr>
@@ -34,9 +34,9 @@ The projects on top are more recent, as a result they could have a better qualit
   </tr>
 
   <tr>
-    <td><a href="https://github.com/dbonach/microcontroller-robot-car">Robot car with microcontroller</a></td>
+    <td><a href="https://github.com/dbonach/microcontroller-robot-car">Robot Car With Microcontroller</a></td>
     <td>Controlled robot car with distance sensor</td>
-    <td>⭐⭐⭐⭐</td>
+    <td>⭐⭐⭐⭐⭐</td>
   </tr>
 </table>
 
