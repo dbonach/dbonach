@@ -3,9 +3,9 @@
 
 </br>
 
-I have been developing a few projects from online courses and I’d like to share them to show what I have been learning and my capabilities as a future web developer. I have interest in front-end and back-end.
+I have been developing a few projects from online courses and I’d like to share them to show what I have been learning and my capabilities as a future web developer. I have interest in both, front and back-end.
 
-The projects on top are more recent, as a result they could have a better quality in general.
+The projects on the top are more recent, as a result they could have a better quality in general. The two projects at the bottom are related to microcontrollers.
 
 </br>
 
@@ -37,6 +37,12 @@ The projects on top are more recent, as a result they could have a better qualit
     <td><a href="https://github.com/dbonach/microcontroller-robot-car">Robot Car With Microcontroller</a></td>
     <td>Controlled robot car with distance sensor</td>
     <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+    
+  <tr>
+    <td><a href="https://github.com/dbonach/assembly-blink-led">Blink Led - State Machine</a></td>
+    <td>LED that blinks with different frequencies</td>
+    <td>⭐⭐</td>
   </tr>
 </table>
 
