@@ -5,7 +5,7 @@
 
 I have been developing a few projects from online courses and I’d like to share them to show what I have been learning and my capabilities as a future web developer. I have interest in both, front and back-end.
 
-The projects on the top are more recent, as a result they could have a better quality in general. The two projects at the bottom are related to microcontrollers.
+The projects on the top are more recent and the two at the bottom are related to microcontrollers.
 
 </br>
 
