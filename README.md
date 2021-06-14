@@ -46,4 +46,4 @@ The projects on the top are more recent, as a result they could have a better qu
   </tr>
 </table>
 
-<sub>* The stars represent the complexity of each project.</sub>
+<sub>&starf; The stars represent the complexity of each project.</sub>
