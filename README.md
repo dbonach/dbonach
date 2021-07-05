@@ -23,7 +23,7 @@ The projects on the top are more recent and the two at the bottom are related to
     
   <tr>
     <td><a href="https://github.com/dbonach/helsinki-fullstackopen/tree/main/part2/countries">React Country Infos</a></td>
-    <td>App that fetchs data from two API's to show information about countries</td>
+    <td>App that fetches data from two API's to show information about countries</td>
     <td>⭐</td>
   </tr>
 
@@ -31,6 +31,12 @@ The projects on the top are more recent and the two at the bottom are related to
     <td><a href="https://dbonach.github.io/cs50web-2018-project0/">Free Programming Resources WebPage</a></td>
     <td>Webpage about free programming courses</td>
     <td>⭐</td>
+  </tr>
+    
+  <tr>
+    <td><a href="https://github.com/dbonach/cs50web-project-3-mail/settings">Email client</a></td>
+    <td>Vanilla JS single page application for an email client</td>
+    <td>⭐⭐</td>
   </tr>
     
   <tr>
