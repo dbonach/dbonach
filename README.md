@@ -34,7 +34,7 @@ The projects on the top are more recent and the two at the bottom are related to
   </tr>
     
   <tr>
-    <td><a href="https://github.com/dbonach/cs50web-project-3-mail/settings">Email client</a></td>
+    <td><a href="https://github.com/dbonach/cs50web-project-3-mail/">Email client</a></td>
     <td>Vanilla JS single page application for an email client</td>
     <td>⭐⭐</td>
   </tr>
