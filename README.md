@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @deivitbonach, electrical engineering student at University of Campinas in Brazil.
-- 🌱 I’m currently learning web development with Python/Django and Javascript.
+- 🌱 I’m currently learning web development with Django, React, Express and Spring.
 
 </br>
 
-I have been developing a few projects from online courses and I’d like to share them to show what I have been learning and my capabilities as a future web developer. I have interest in both, front and back-end.
+I have been developing a few projects from online courses and I’d like to share them to show what I have been learning and my capabilities as a future web developer.
 
 The projects on the top are more recent and the two at the bottom are related to microcontrollers.
 
@@ -22,7 +22,7 @@ The projects on the top are more recent and the two at the bottom are related to
   </tr>
     
   <tr>
-    <td><a href="https://github.com/dbonach/helsinki-fullstackopen/tree/main/part2/countries">React Country Infos</a></td>
+    <td><a href="https://github.com/dbonach/helsinki-fullstackopen/tree/main/part2/countries">React Country Info</a></td>
     <td>App that fetches data from two API's to show information about countries</td>
     <td>⭐</td>
   </tr>
@@ -34,7 +34,7 @@ The projects on the top are more recent and the two at the bottom are related to
   </tr>
     
   <tr>
-    <td><a href="https://github.com/dbonach/cs50web-project-3-mail/">Email client</a></td>
+    <td><a href="https://github.com/dbonach/cs50web-project-3-mail/">SPA Email client</a></td>
     <td>Vanilla JS single page application for an email client</td>
     <td>⭐⭐</td>
   </tr>
@@ -54,7 +54,7 @@ The projects on the top are more recent and the two at the bottom are related to
   <tr>
     <td><a href="https://github.com/dbonach/cs50web-project-0-search">Google Home Page</a></td>
     <td>Clone of google search page including speechrecognition</td>
-    <td>⭐⭐</td>
+    <td>⭐⭐⭐</td>
   </tr>
 
   <tr>
