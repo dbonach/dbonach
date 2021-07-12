@@ -48,7 +48,7 @@ The projects on the top are more recent and the two at the bottom are related to
   <tr>
     <td><a href="https://github.com/dbonach/cs50web-project-1-wiki">Wikipedia-Like Encyclopedia</a></td>
     <td>Online encyclopedia where we can save, query and edit its pages</td>
-    <td>⭐</td>
+    <td>⭐⭐</td>
   </tr>
   
   <tr>
