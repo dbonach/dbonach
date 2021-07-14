@@ -24,7 +24,7 @@ The projects on the top are more recent and the two at the bottom are related to
   <tr>
     <td><a href="https://github.com/dbonach/helsinki-fullstackopen/tree/main/part2/countries">React Country Info</a></td>
     <td>App that fetches data from APIs and display information about countries</td>
-    <td>⭐</td>
+    <td>⭐⭐</td>
   </tr>
 
   <tr>
