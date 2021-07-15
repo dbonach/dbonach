@@ -28,7 +28,7 @@ The projects on the top are more recent and the two at the bottom are related to
   </tr>
 
   <tr>
-    <td><a href="https://dbonach.github.io/cs50web-2018-project0/">Free Programming Resources WebPage</a></td>
+    <td><a href="https://github.com/dbonach/cs50web-2018-project0">Free Programming Resources WebPage</a></td>
     <td>Webpage about free programming courses</td>
     <td>⭐</td>
   </tr>
