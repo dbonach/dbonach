@@ -16,9 +16,9 @@ The projects on the top are more recent and the two at the bottom are related to
   </tr> -->
     
   <tr>
-    <td><a href="https://github.com/dbonach/helsinki-fullstackopen-express">React Phonebook w/ Express</a></td>
-    <td>App that display and saves contacts to an Express backend</td>
-    <td>⭐</td>
+    <td><a href="https://github.com/dbonach/helsinki-fullstackopen-express">React App Phonebook</a></td>
+    <td>App that displays and saves contacts using express/mongoDB</td>
+    <td>⭐⭐</td>
   </tr>
     
   <tr>
