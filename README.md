@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @deivitbonach, electrical engineering student at University of Campinas in Brazil.
 - 🌱 Currently I'm learning web development with Django, React, Express and Spring.
 
+<!--
+
 </br>
 
 I have been developing a few projects from online courses and I’d like to share them to show what I have been learning and my capabilities as a future web developer.
@@ -10,10 +12,6 @@ The projects on the top are more recent and the two at the bottom are related to
 </br>
 
 <table>
-
-<!--   <tr>
-    <th colspan="2">Active Courses</th>
-  </tr> -->
     
   <tr>
     <td><a href="https://github.com/dbonach/helsinki-fullstackopen-express">React App Phonebook</a></td>
@@ -71,3 +69,5 @@ The projects on the top are more recent and the two at the bottom are related to
 </table>
 
 <sub>&starf; The stars represent the complexity of each project.</sub>
+
+-->
