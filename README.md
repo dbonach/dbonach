@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deivitbonach, electrical engineering student at University of Campinas in Brazil.
-- 🌱 Currently I'm learning web development with Django, React, Express and Spring.
+- 🌱 Currently I'm learning web development with Spring Boot, React, Express and Django.
 
 </br>
 
